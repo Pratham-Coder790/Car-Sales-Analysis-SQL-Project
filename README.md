@@ -3,12 +3,12 @@
 This project is a comprehensive SQL-based analysis of car sales data. It aims to provide insights into car sales performance, trends, and other key metrics using a structured database and SQL queries.
 
 ## Features
-# Data Analysis: Analyze sales trends, top-performing models, and customer demographics.
-# SQL Queries: Execute complex queries to extract meaningful insights.
-# Performance Metrics: Identify sales patterns, revenue generation, and dealer performance.
-# Database Design: Well-structured database schema for efficient querying and data retrieval.
+ Data Analysis: Analyze sales trends, top-performing models, and customer demographics.
+ SQL Queries: Execute complex queries to extract meaningful insights.
+ Performance Metrics: Identify sales patterns, revenue generation, and dealer performance.
+ Database Design: Well-structured database schema for efficient querying and data retrieval.
 
-# Tools and Technologies
+## Tools and Technologies
 Database Management System: MySQL / PostgreSQL / SQL Server (specify the DBMS used)
 SQL: For querying and managing the data
 (Optional: Mention additional tools like Power BI or Tableau if dashboards are used)
